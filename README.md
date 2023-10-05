@@ -1,4 +1,4 @@
-Project Overview: Analyzing Housing and Rental Prices in Hungary
+Project Overview: Analyzing Rental Prices in Hungary
 
 Data Collection:
 
