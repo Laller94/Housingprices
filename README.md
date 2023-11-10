@@ -57,3 +57,4 @@ With a clean and comprehensive dataset in hand, I proceeded to conduct explorato
   - South region of Pest mostly featured the cheapest properties.
 
 These findings indicate significant variations in property prices across districts, revealing insights about size preferences and pricing trends that can aid in strategic decision-making for investors, property managers, and potential renters.
+As of the analysis consisted data from October 2023 the prices may have slighty changed since than.
