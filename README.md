@@ -19,3 +19,41 @@ As part of the data preparation phase, I augmented the dataset by introducing ne
 Data Analysis and Visualization
 
 With a clean and comprehensive dataset in hand, I proceeded to conduct exploratory data analysis. This phase involved the creation of pivot tables and charts to visualize and uncover insights from the data. These visualizations will serve as valuable tools for the subsequent phases of the project.
+
+**Main Questions Explored:**
+
+1. **District Price Disparity:** 
+   - What are the most expensive and cheapest districts for rental properties?
+   
+2. **Property Size and Room Distribution:**
+   - How are the properties distributed concerning size and number of rooms?
+   
+3. **Price Analysis per Square Meter:**
+   - What are the average prices per square meter in different districts?
+   
+4. **Price Group Analysis:**
+   - How do different districts compare across price ranges?
+
+**Key Findings:**
+
+- **District Price Disparity:**
+  - Top 3 expensive districts: 5, 2, 1.
+  - Cheapest districts: 19, 21, 18.
+
+- **Property Size and Room Distribution:**
+  - Varied apartment sizes: 1 room to 20 rooms.
+  - Size groups: 0-50sqm, 50-100sqm, above 100sqm.
+  - Most common:
+    - 0-50sqm - 2 room apartments (251 counts)
+    - 50-100sqm - 3 room apartments (475 counts)
+    - Above 100sqm - 4 room apartments (103 counts).
+
+- **Price Analysis per Square Meter:**
+  - Top 3 districts with expensive prices per square meter: 5, 2, 6.
+
+- **Price Group Analysis:**
+  - Every district had cheap-range apartments.
+  - Not every district had properties above 500,000 HUF.
+  - South region of Pest mostly featured the cheapest properties.
+
+These findings indicate significant variations in property prices across districts, revealing insights about size preferences and pricing trends that can aid in strategic decision-making for investors, property managers, and potential renters.
