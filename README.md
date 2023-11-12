@@ -56,5 +56,32 @@ With a clean and comprehensive dataset in hand, I proceeded to conduct explorato
   - Not every district had properties above 500,000 HUF.
   - South region of Pest mostly featured the cheapest properties.
 
+- **Project Statistics:**
+  - Min Price/square meter: 1000 HUF
+  - Max Price/square meter: 20.941 HUF
+  - Average Price/square meter: 5270 HUF
+
+  -Average price: 381.119 HUF
+ 
+  - **Average prices in range buckets:**
+     - 0-200 : 166.256 HUF
+     - 200-300 : 240.417 HUF
+     - 300-500 : 376.069 HUF
+     - 500< :834.421 HUF
+
+  - **Apartments with number of rooms:**
+     - 1 room(s): 285
+     - 2 room(s): 615
+     - 3 room(s): 561
+     - 4 room(s): 173
+     - 5 room(s): 33
+     - 6 room(s): 11
+     - 7 room(s): 13
+     - 10 room(s): 1
+     - 12 room(s): 1
+     - 20 room(s): 1
+
+  - 
+
 These findings indicate significant variations in property prices across districts, revealing insights about size preferences and pricing trends that can aid in strategic decision-making for investors, property managers, and potential renters.
 As of the analysis consisted data from October 2023 the prices may have slighty changed since than.
