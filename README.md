@@ -60,8 +60,7 @@ With a clean and comprehensive dataset in hand, I proceeded to conduct explorato
   - Min Price/square meter: 1000 HUF
   - Max Price/square meter: 20.941 HUF
   - Average Price/square meter: 5270 HUF
-
-  -Average price: 381.119 HUF
+  - Average price: 381.119 HUF
  
   - **Average prices in range buckets:**
      - 0-200 : 166.256 HUF
@@ -81,7 +80,6 @@ With a clean and comprehensive dataset in hand, I proceeded to conduct explorato
      - 12 room(s): 1
      - 20 room(s): 1
 
-  - 
 
 These findings indicate significant variations in property prices across districts, revealing insights about size preferences and pricing trends that can aid in strategic decision-making for investors, property managers, and potential renters.
 As of the analysis consisted data from October 2023 the prices may have slighty changed since than.
